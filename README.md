@@ -4,9 +4,9 @@ An AI-powered Data Analyst and SQL Agent built using LangGraph, few-shot learnin
 
 ## Screenshot
 
-![SmartLook AI Agent Demo](templates/assets/ss_ui_.png)
+<img src="templates/assets/ss_ui_.png" alt="SmartLook UI Demo" width="100%"/>
 
-![SmartLook AI Agent Demo](templates/assets/ss_chat_.png)
+<img src="templates/assets/ss_chat_.png" alt="SmartLook Chat Demo" width="100%"/>
 
 ## Overview
 
